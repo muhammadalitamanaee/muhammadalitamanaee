@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @muhammadalitamanaee
 - 👀 I’m interested in don't know yet
-- 🌱 I’m currently learning python/django
+- 🌱 I’m currently learning HTML/Css/JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (you can't)
+- 📫 How to reach me (alitaman200041@gmail.com)
 
 <!---
 muhammadalitamanaee/muhammadalitamanaee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
