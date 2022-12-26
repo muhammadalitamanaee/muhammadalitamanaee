@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadalitamanaee
+- 👋 Hi, I’m @muhammadAliTamanaee
 - 👀 I’m interested in don't know yet
 - 🌱 I’m currently learning HTML/Css/JavaScript
 - 💞️ I’m looking to collaborate on ...
