@@ -29,12 +29,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
 <!-- Add or update technologies as relevant -->
 
----
 
-## 🚀 Featured Projects
-
-- [Full Stack Next.js Dashboard App](https://full-stack-dashboard-app-with-next.vercel.app/) — A modern dashboard application built using Next.js and full stack technologies, SQL database with Next.js Server Actions and authentication.
-- [Online Shop Final Project](https://github.com/muhammadalitamanaee/OnineShop-MaktabFinallProject-tamanaee-) — E-commerce web application built as a final project.  
 <!-- Add links to your repositories or projects -->
 
 ---
